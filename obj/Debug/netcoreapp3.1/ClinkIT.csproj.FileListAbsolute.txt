@@ -1,0 +1,11 @@
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/bin/Debug/netcoreapp3.1/ClinkIT
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/bin/Debug/netcoreapp3.1/ClinkIT.deps.json
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/bin/Debug/netcoreapp3.1/ClinkIT.runtimeconfig.json
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/bin/Debug/netcoreapp3.1/ClinkIT.runtimeconfig.dev.json
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/bin/Debug/netcoreapp3.1/ClinkIT.dll
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/bin/Debug/netcoreapp3.1/ClinkIT.pdb
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/obj/Debug/netcoreapp3.1/ClinkIT.csprojAssemblyReference.cache
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/obj/Debug/netcoreapp3.1/ClinkIT.AssemblyInfoInputs.cache
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/obj/Debug/netcoreapp3.1/ClinkIT.AssemblyInfo.cs
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/obj/Debug/netcoreapp3.1/ClinkIT.dll
+/Users/jessiepf/Desktop/files/exams/clinkIT/ClinkIT/ClinkIT/obj/Debug/netcoreapp3.1/ClinkIT.pdb
