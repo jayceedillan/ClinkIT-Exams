@@ -18,7 +18,7 @@ namespace ClinkIT
             var results = wordFinder.Find(src);
             foreach (string name in results)
             {
-                Console.WriteLine(name);
+                Console.WriteLine(name + " ---- result 1 ");
             }
             //another trick 2 for finder works
             WordFinder2 wordFinder2 = new WordFinder2(dictionary);
@@ -26,7 +26,7 @@ namespace ClinkIT
 
             foreach (string name in results2)
             {
-                Console.WriteLine(name);
+                Console.WriteLine(name + " ---- result 2 ");
             }
         }
     }
