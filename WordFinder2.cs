@@ -7,7 +7,6 @@ namespace ClinkIT
     public class WordFinder2 : FinderMaster, IFinderRepository
     {
         public WordFinder2(IEnumerable<string> dictionary) { this.dictionary = dictionary; }
-
         public IList<string> Find(String[] src)
         {
             int srcLength = src.Length;
@@ -42,9 +41,7 @@ namespace ClinkIT
                     this.addAnswers(words);
                 }
             }
-
             return answerList;
-
         }
 
         private bool validateRowIndex(char resp, int firstIndex, int lastIndex)
@@ -78,8 +75,5 @@ namespace ClinkIT
                 answerList.Add(name);
             }
         }
-
-
-
     }
 }
