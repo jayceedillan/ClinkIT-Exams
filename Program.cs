@@ -20,13 +20,30 @@ namespace ClinkIT
             {
                 Console.WriteLine(name + " ---- result 1 ");
             }
+
+
+
+            String[] dictionary2 = { "KING", "TEST", "ALOHA", "HELLO" };
+            String[] src2 = { "IMWBGWDGLP", "FPJCCCTMHS", "KEVTEKZCOC", "JHELLOWOFY",
+                              "VCKINGBBNR", "HCAKFDDRKV", "BPRVUBVXQX", "TESTGNMMLH","ONJBFQEFAJ","IEALOHABTA"};
+
+
+            //another trick 1 for finder works
+
+            WordFinder wordFinder2 = new WordFinder(dictionary2);
+            results = wordFinder2.Find(src2);
+            foreach (string name in results)
+            {
+                Console.WriteLine(name + " ---- result 2 ");
+            }
+
             // //another trick 2 for finder works
-            // WordFinder2 wordFinder2 = new WordFinder2(dictionary);
-            // var results2 = wordFinder2.Find(src);
+            // WordFinder2 wordFinder3 = new WordFinder2(dictionary2);
+            // var results2 = wordFinder3.Find(src2);
 
             // foreach (string name in results2)
             // {
-            //     Console.WriteLine(name + " ---- result 2 ");
+            //     Console.WriteLine(name + " ---- result 3 ");
             // }
         }
     }
