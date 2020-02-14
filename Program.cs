@@ -21,14 +21,9 @@ namespace ClinkIT
                 Console.WriteLine(name + " ---- result 1 ");
             }
 
-
-
             String[] dictionary2 = { "KING", "TEST", "ALOHA", "HELLO" };
             String[] src2 = { "IMWBGWDGLP", "FPJCCCTMHS", "KEVTEKZCOC", "JHELLOWOFY",
                               "VCKINGBBNR", "HCAKFDDRKV", "BPRVUBVXQX", "TESTGNMMLH","ONJBFQEFAJ","IEALOHABTA"};
-
-
-            //another trick 1 for finder works
 
             WordFinder wordFinder2 = new WordFinder(dictionary2);
             results = wordFinder2.Find(src2);
